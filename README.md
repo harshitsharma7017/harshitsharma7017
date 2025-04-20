@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE @ MIET, Meerut  
-- 🧑‍💻 Junior Backend Developer at [Dehix](https://dehix.in)  
+- 🧑‍💻 Backend Developer at [Dehix](https://dehix.org)  
 - 🔥 Passionate about building **robust APIs**, **scalable systems**, and **clean architectures**
 - 💬 Ask me about **Node.js, MongoDB, WebSockets, Auth systems**
 - 📫 Reach me: [harshit.sharma8532@gmail.com](mailto:harshit.sharma8532@gmail.com)
