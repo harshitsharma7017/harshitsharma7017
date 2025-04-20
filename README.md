@@ -70,12 +70,18 @@ _Aug 2024 – Present_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (2024 & 2025)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitsharma7017&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharma7017&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitsharma7017&show_icons=true&theme=radical&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharma7017&layout=compact&theme=radical&hide_border=false" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitsharma7017&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-contribution-graph.ezra.sh/api?username=harshitsharma7017&bg_color=000000&color=00FFCB&line=00FFC6&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
 
 ---
 
