@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20React&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20-%20Node.js%20and%20React&descAlignY=68&descSize=20" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshitsharma7017&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/harshitsharma7017?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+EqasOnline;Founder+%40+CityCore+(500%2B+users);Building+DocChat+%E2%80%94+RAG+in+production;Node.js+%7C+React+%7C+PostgreSQL" />
@@ -109,8 +109,6 @@ _Aug 2024 – Mar 2025_
 </p>
 
 ## 🐍 Contribution Snake
-
-> One-time setup needed — see the note right after this section, or this image will 404.
 
 <p align="center">
   <picture>
